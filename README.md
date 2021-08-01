@@ -1,4 +1,4 @@
-# Quickdraw_probe_Voron_Switchwire
+# Quickdraw probe for Voron Switchwire
 A Magnetically Coupled, Removable, Z Probe and Dock System remixed from the files at Annex Engineering so the probe detaches in the X axis on the Voron Switchwire.
 
 For the dock and probe you will find here, you'll need :
